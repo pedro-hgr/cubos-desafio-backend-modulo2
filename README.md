@@ -12,4 +12,4 @@ Nesse desafio eu preciso criar uma APIRestful com as devidas funções:
 -   Consultar saldo da conta bancária
 -   Emitir extrato bancário
 
-![Insomnia](/cubos-desafio-backend-modulo2/assets/Captura%20de%20tela%202023-03-06%20224558.png?raw=true "Optional Title")
+![Insomnia](./assets/Captura%20de%20tela%202023-03-06%20224558.png?raw=true "Optional Title")
